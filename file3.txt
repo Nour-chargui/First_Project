@@ -1,0 +1,2 @@
+Contenu de file3
+Nouvelle ligne pour file3
